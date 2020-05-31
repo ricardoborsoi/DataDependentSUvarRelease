@@ -8,12 +8,12 @@ The code is implemented in MATLAB and includes:
 -  example1.m                - a demo script comparing the algorithms (DC1)  
 -  example2.m                - a demo script comparing the algorithms (DC2)  
 -  example3.m                - a demo script comparing the algorithms (DC3)  
--  example_real1.m           - a demo script comparing the algorithms (Houston)  
--  example_real2.m           - a demo script comparing the algorithms (Cuprite)  
+-  demo_houston.m            - a demo script comparing the algorithms (Houston)  
+-  demo_cuprite.m            - a demo script comparing the algorithms (Cuprite)  
 -  ./MUAV/                   - contains the MATLAB files associated with the MUAV algorithm  
 -  ./other_methods/          - contains the ELMM and PLMM methods  
 -  ./utils/                  - useful functions  
--  ./DATA/                   - images used in the examples  
+-  ./DATA/                   - files used in the examples  
 -  README                    - this file  
 
 
@@ -43,7 +43,7 @@ Just start MATLAB and run one of the demo scripts (e.g. example1.m, example2.m, 
     Hyperspectral unmixing with spectral variability using a perturbed linear mixing model.
     IEEE Transactions on Signal Processing, 2016.
 
-
+4.  The data used for example 3 was originally provided by Lucas Drumetz and his collaborators
 
 
 
